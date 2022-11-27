@@ -93,7 +93,8 @@ int main(void)
 
 ## STIMULATION-NUMBER:
 
-![image](https://user-images.githubusercontent.com/94828147/204152631-df836433-fc92-401d-bb36-43e4d3c87090.png)
+![image](https://user-images.githubusercontent.com/94828147/204152716-e84f94e0-cfb9-4ec9-b004-33c80bc6ef01.png)
+
 
 ## STIMULATION-ALPHABET:
 
